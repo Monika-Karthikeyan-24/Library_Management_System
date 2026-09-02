@@ -1,6 +1,6 @@
 print("\nLibrary Management System\n")
 
-book = "Java Programming"
+book = "Python Programming"
 available = True
 
 if available:
@@ -8,7 +8,7 @@ if available:
 else:
     print("Book is not available")
 
-if book == "Java Programming":
+if book == "Python Programming":
     print("Book found")
 else:
     print("Book not found")
