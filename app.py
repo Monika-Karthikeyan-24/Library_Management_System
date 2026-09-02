@@ -1,6 +1,6 @@
 print("\nLibrary Management System\n")
 
-book = "Python Programming"
+book = "Agile Development process and DevOps"
 available = True
 
 if available:
